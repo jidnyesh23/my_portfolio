@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Jidnyesh Tushar Chaudhari - Portfolio Website
 
 A modern, responsive, and animated personal portfolio website built with React, TypeScript, Tailwind CSS, and Framer Motion.
@@ -177,3 +178,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ **If you found this portfolio helpful, please give it a star!** ⭐
+=======
+# my_portfolio
+My Portfolio Website – Built using React.js Showcasing my projects, skills, and achievements with smooth UI animations and a modern, responsive design.
+>>>>>>> a72457cd495672535b4749531f17ee22d42c36cf
